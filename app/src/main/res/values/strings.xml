@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AnimationSelector</string>
     <string name="start_button_text">Play Animation</string>
+    <string-array name="resource_list">
+        <item>Hourglass</item>
+        <item>Duck</item>
+    </string-array>
 </resources>
