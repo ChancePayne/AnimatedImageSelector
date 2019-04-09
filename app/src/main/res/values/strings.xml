@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AnimationSelector</string>
+    <string name="start_button_text">Play Animation</string>
 </resources>
