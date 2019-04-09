@@ -4,5 +4,7 @@
     <string-array name="resource_list">
         <item>Hourglass</item>
         <item>Duck</item>
+        <item>Gatsby</item>
+        <item>Toast</item>
     </string-array>
 </resources>
